@@ -1,11 +1,11 @@
 # Site settings
-title: CS231n Convolutional Neural Networks for Visual Recognition
-email: karpathy@cs.stanford.edu
-description: "Course materials and notes for Stanford class CS231n: Convolutional Neural Networks for Visual Recognition."
+title: CT101 - Lập trình căn bản
+email: duongludientraining@gmail.com
+description: "Học liệu và bài giảng cho khóa học CT101: Lập trình căn bản."
 baseurl: ""
-url: "http://cs231n.github.io"
-twitter_username: cs231n
-github_username:  cs231n
+url: "http://ltcb.github.io"
+twitter_username: duongludien
+github_username:  ltcb
 
 # Build settings
 markdown: kramdown
